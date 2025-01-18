@@ -1,4 +1,3 @@
-# Full Stack Journal App with Next JS, React, Tailwind CSS, Prisma, Neon, Clerk, ArcJet, Shadcn UI Tutorial 🔥🔥
 
 
 ### Make sure to create a `.env` file with following variables -

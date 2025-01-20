@@ -36,7 +36,7 @@ Follow these steps to run the project locally:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/rohandiaz/reflct.git
+git clone https://github.com/rohandiaz/Reflct.git
 cd reflct
 npm install
 ```
